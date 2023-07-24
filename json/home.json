@@ -1,0 +1,19 @@
+{
+    "home": [
+        {
+            "id": 1,
+            "img": "../assets/breakfast.jpg",
+            "name": "Breakfast"
+        },
+        {
+            "id": 2,
+            "img": "../assets/lunch.jpg",
+            "name": "Lunch"
+        },
+        {
+            "id": 3,
+            "img": "../assets/supper.jpg",
+            "name": "Supper"
+        }
+    ]
+}

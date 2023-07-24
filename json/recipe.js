@@ -44,7 +44,7 @@ const recipes = [
         img: require("../assets/waakye_supper.jpg"),
         name: "Waakye",
         category: "supper",
-        ingredients: "",
+        ingredients: "\u2022 1 cup dried black eyed beans/ peas soaked overnight\n\u2022 2 cups rice\n\u2022 8-10 dried millet stalk leaves\n\u2022 salt as required ",
         instructions: ""
     }
 ]

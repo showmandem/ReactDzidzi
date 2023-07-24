@@ -32,6 +32,7 @@ const recipeCatStyles = StyleSheet.create({
     paddingVertical: 5,
     paddingHorizontal: 10,
     marginBottom: 10,
+        // These are comments
         // ...Platform.select({
         // ios: {
         //     shadowColor: 'rgba(0, 0, 0, 0.5)',

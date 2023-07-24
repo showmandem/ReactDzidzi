@@ -45,7 +45,7 @@ const recipes = [
         name: "Waakye",
         category: "supper",
         ingredients: "\u2022 1 cup dried black eyed beans/ peas soaked overnight\n\u2022 2 cups rice\n\u2022 8-10 dried millet stalk leaves\n\u2022 salt as required ",
-        instructions: ""
+        instructions: "1. Pour over a litre of water into a saucepan together with the millet leaf stalks. Put on a high heat to boil.\nThe millet stalk leaves will start omitting its colour and the water will start turning into a deep wine colour.\n2. Rinse the soaked beans and add to the boiling water.\nCover and let it cook till tender. Mean while rinse the rice till the water is cleared. Add the washed rice into the saucepan together with salt to taste. (You might need to add more water.) Add water if needed. Stir and cover tightly.\n3. Do not remove the millet stalk leaves. When the rice boils over, reduce heat and simmer till the water is absorbed and the rice is cooked through. Rent for three to five minutes, remove millet stalk leaves and fluff with a fork."
     }
 ]
 

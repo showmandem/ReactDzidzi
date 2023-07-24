@@ -20,7 +20,7 @@ const recipes = [
         img: require("../assets/oats.jpg"),
         name: "Oats",
         category: "breakfast",
-        ingredients: "",
+        ingredients: "\u2022 1/2 cup instant oats\n\u2022 1 cup water or milk\n\u2022 Pinch of salt\n\u2022 Optional: sweetener,fruit,nuts,or other toppings ",
         instructions: ""
     },
     {

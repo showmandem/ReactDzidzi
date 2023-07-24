@@ -21,7 +21,7 @@ const recipes = [
         name: "Oats",
         category: "breakfast",
         ingredients: "\u2022 1/2 cup instant oats\n\u2022 1 cup water or milk\n\u2022 Pinch of salt\n\u2022 Optional: sweetener,fruit,nuts,or other toppings ",
-        instructions: ""
+        instructions: "1. In a microwave-safe bowl, combine the oats, water or milk, and salt.\n2. Microwave on high for 1-2 minutes, stirring occasionally, until the oats are cooked and the liquid is absorbed.\n3. Add sweetener or other toppings as desired."
     },
     {
         id: 4,
